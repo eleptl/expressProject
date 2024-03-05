@@ -1,0 +1,52 @@
+{
+    "elencoProdotti": [
+        {
+            "MATNR":"1271/0",
+            "LGORT":"M01",
+            "LGPLA":"CCP067A14F",
+            "MEINS":"PZ",
+            "VERME":"10",
+            "BESTQ":"Utilizzo Libero"        
+        },
+        {
+            "MATNR":"1272/0",
+            "LGORT":"M02",
+            "LGPLA":"13011504",
+            "MEINS":"PZ",
+            "VERME":"18",
+            "BESTQ":"Utilizzo Libero"            
+        },
+        {
+            "MATNR":"1272/0",
+            "LGORT":"M01",
+            "LGPLA":"CCP004710D",
+            "MEINS":"PZ",
+            "VERME":"25",
+            "BESTQ":"Utilizzo Libero"        
+        },
+        {
+            "MATNR":"1272/0",
+            "LGORT":"M01",
+            "LGPLA":"CC067A1C",
+            "MEINS":"PZ",
+            "VERME":"5",
+            "BESTQ":"Utilizzo Libero"         
+        },
+        {
+            "MATNR":"1272/0",
+            "LGORT":"M01",
+            "LGPLA":"QUALITY",
+            "MEINS":"PZ",
+            "VERME":"3",
+            "BESTQ":"Controllo Qualita"        
+        },
+        {
+            "MATNR":"1272/0",
+            "LGORT":"M02",
+            "LGPLA":"CCPEXT13C",
+            "MEINS":"PZ",
+            "VERME":"15",
+            "BESTQ":"Bloccato"           
+        }
+    ]
+}

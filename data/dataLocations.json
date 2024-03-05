@@ -1,0 +1,76 @@
+{
+    "elencoUbicazioni": [
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "1099/G", 
+            "MAKTX":    "WPC Spray Clean",
+            "MEINS":    "PZ",   
+            "VERME":    "15",
+            "BESTQ":    "Utilizzo libero"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "1057/0", 
+            "MAKTX":    "Wood Oil",
+            "MEINS":    "PZ",   
+            "VERME":    "20",   
+            "BESTQ":    "Utilizzo libero"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "471/2", 
+            "MAKTX":    "Cocco Naturale 17mm",
+            "MEINS":    "PZ",
+            "VERME":    "13",
+            "BESTQ":    "Utilizzo libero"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "4021/8", 
+            "MAKTX":    "Primer G",
+            "MEINS":    "PZ",
+            "VERME":    "18",
+            "BESTQ":    "3 PZ Prenotati per il Prelievo"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "540/0", 
+            "MAKTX":    "Latex Plus",
+            "MEINS":    "PZ",
+            "VERME":    "25",
+            "BESTQ":    "Utilizzo libero"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "839/G", 
+            "MAKTX":    "Ultrabond ECO FIX",
+            "MEINS":    "PZ",
+            "VERME":    "16",
+            "BESTQ":    "3 PZ Prenotati per il Prelievo"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "845/G", 
+            "MAKTX":    "Pavimento PVC Rotolo",
+            "MEINS":    "PZ",
+            "VERME":    "4",
+            "BESTQ":    "Bloccato"
+
+        },
+        {
+            "LGPLA":    "CCP067A14F",
+            "MATNR":    "124/2", 
+            "MAKTX":    "Pavimento PVC Flottante",
+            "MEINS":    "PZ",
+            "VERME":    "10",
+            "BESTQ":    "Utilizzo libero"
+
+        }
+    ]
+}
